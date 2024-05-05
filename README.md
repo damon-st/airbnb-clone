@@ -1,5 +1,22 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+# First create .env
+
+```bash
+DATABASE_URL=""
+
+NEXTAUTH_SECRET=""
+
+GITHUB_ID=""
+GITHUB_SECRET=""
+
+GOOGLE_CLIENT_ID=""
+GOOGLE_CLIENT_SECRET=""
+
+NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME=""
+
+```
+
 ## Getting Started
 
 First, run the development server:
